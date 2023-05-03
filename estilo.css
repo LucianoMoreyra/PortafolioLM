@@ -21,7 +21,7 @@
         }
         
         #inicio .contenido header {
-            background-color: rgba(0, 0, 0, .8);
+            background-color: rgba(153, 205, 245, 0.8);
             position: fixed;
             width: 100%;
             z-index: 100;
