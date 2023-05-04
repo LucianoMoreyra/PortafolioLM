@@ -177,6 +177,7 @@
             padding: 100px 15px;
             color: #111135;
             display: flex;
+            background-color: #d6e4f7;
         }
         
         #sobremi .contenedor-foto {
@@ -252,7 +253,7 @@
         #servicios {
             padding: 100px 15px;
             text-align: center;
-            background-color: #f3f3f3;
+            background-color: #c5e4fa;
         }
         
         #servicios .titulo-seccion {
