@@ -431,6 +431,12 @@
             padding: 100px 0;
             margin: auto;
         }
+        #portfolio .titulo-seccion p a{
+            color: #ff5080;
+        }
+        .enlace{
+            color: #ff5080;
+        }
         
         #portfolio .titulo-seccion {
             text-align: center;
@@ -469,7 +475,7 @@
             filter: grayscale(0);
         }
         
-        #portfolio .fila .proyecto .info {
+        #portfolio .fila .proyecto .info  {
             position: absolute;
             left: 0px;
             background-color: rgba(0, 0, 0, 0.8);
@@ -480,6 +486,8 @@
             bottom: -40px;
             transition: .5s;
         }
+        
+        
         
         #portfolio .fila .proyecto:hover .info {
             opacity: 1;
